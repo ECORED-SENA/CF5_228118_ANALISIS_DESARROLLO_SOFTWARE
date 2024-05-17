@@ -115,7 +115,7 @@
           .col-md-6.col-lg-4.mb-4.mb-md-0.up.d-none.d-lg-block(data-aos="fade-right")
             img(src='@/assets/curso/temas/49.png', alt='')
           .col-md-11.col-lg-8.mb-4.mb-md-0.up(data-aos="fade-left")
-            SlyderF.text-center(columnas="col-lg-6")
+            SlyderF.text-center.mb-3(columnas="col-lg-6")
               .tarjeta.bgcard.ts.h-100.p-4
                 .row.justify-content-center.mb-3
                   .col-8
