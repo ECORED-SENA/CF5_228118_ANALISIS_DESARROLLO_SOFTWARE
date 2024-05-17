@@ -12,7 +12,7 @@
         .row.justify-content-center.align-items-center          
           .col-lg-12 
             .row.justify-content-center.align-items-center.bg4.brad(data-aos="flip-down")           
-              .col-lg-3.p-0
+              .col-lg-3.p-0.d-none.d-lg-block  
                 img.img-t(src='@/assets/curso/temas/6.png', alt='')       
               .col-lg-9
                 p(data-aos="fade-down").py-3.mb-0.text-white Dorrego (1994), define que el informe de análisis son documentos en los cuales se plasma una serie de procesos, de acuerdo con los requerimientos y objetivos a alcanzar, también conocidos como reporting y su fin es realizar un análisis exhaustivo del sistema que se desea desarrollar y el rendimiento de los procesos, logrando influir directamente en la toma de decisiones.        

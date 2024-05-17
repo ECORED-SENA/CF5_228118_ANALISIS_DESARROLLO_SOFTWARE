@@ -12,7 +12,7 @@
         .row.justify-content-center.align-items-center          
           .col-lg-12 
             .row.justify-content-center.align-items-center.bg19.brad.mb-5(data-aos="flip-down")           
-              .col-lg-3.p-0
+              .col-lg-3.p-0.d-none.d-lg-block  
                 img.img-t(src='@/assets/curso/temas/66.png', alt='')       
               .col-lg-9
                 .py-3.text-white
