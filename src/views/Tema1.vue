@@ -15,17 +15,19 @@
               .col-lg-3.p-0.d-none.d-lg-block  
                 img.img-t(src='@/assets/curso/temas/6.png', alt='')       
               .col-lg-9
-                p(data-aos="fade-down").py-3.mb-0.text-white Dorrego (1994), define que el informe de análisis son documentos en los cuales se plasma una serie de procesos, de acuerdo con los requerimientos y objetivos a alcanzar, también conocidos como reporting y su fin es realizar un análisis exhaustivo del sistema que se desea desarrollar y el rendimiento de los procesos, logrando influir directamente en la toma de decisiones.        
+                p(data-aos="fade-down").py-3.mb-0.text-white Dorrego (1994), define que el informe de análisis son documentos en los cuales se plasma una serie de procesos, de acuerdo con los requerimientos y objetivos a alcanzar, también conocidos como #[i reporting] y su fin es realizar un análisis exhaustivo del sistema que se desea desarrollar y el rendimiento de los procesos, logrando influir directamente en la toma de decisiones.  
 
-            .row.justify-content-center.align-items-center.mb-5.pt-5           
+            p.t2(data-aos="fade-down").pt-5 A continuación, en el siguiente video, se presentan algunos aspectos a tener en cuenta para el desarrollo de un informe de análisis.
+            .row.justify-content-center.align-items-center.mb-5          
               .col-lg-12(data-aos="fade-left")     
                 figure
                   .video
-                    iframe(width="560" height="315" src="https://www.youtube.com/embed/szn9a9nezBI?si=nPt4xtJV1XqcGZAK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
+                    iframe(width="560" height="315" src="https://www.youtube.com/embed/szn9a9nezBI?si=nPt4xtJV1XqcGZAK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+                figcaption Video. Informe de análisis
 
     Separador 
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 1.1 Proceso de búsqueda de la información evaluación y síntesis de las fuentes          
+      h2 1.1 Proceso de búsqueda de la información, evaluación y síntesis de las fuentes          
 
     .row.bg5.align-items-center
       .col-lg-12.col-12.px-lg-5.px-4 
@@ -69,7 +71,7 @@
                           p.mb-0 Actualizada
 
             .bg7.brad.p-4.mb-5(data-aos="fade-up")
-              p(data-aos="fade-down").mb-0.t3 Aquí se busca evaluar la calidad de las fuentes como son seguimientos, pruebas, historias de usuario, listas de chequeo, y en este caso específico, el informe de requerimientos de software. 
+              p(data-aos="fade-down").mb-0.t3 Aquí se busca evaluar la calidad de las fuentes como son seguimientos, pruebas, historias de usuario, listas de chequeo, y en este caso específico, el informe de requerimientos de #[i software]. 
 
             p(data-aos="fade-down").mb-5 Comencemos hablando de las fuentes de información, las cuales son todos aquellos medios de los cuales procede la información, que satisfacen las necesidades de conocimiento de una situación o problema presentado, que posteriormente será utilizado para lograr los objetivos esperados.               
             .row.justify-content-center.align-items-center.mb-4        
@@ -115,29 +117,25 @@
       .col-lg-3.my-3
         .bg10.brad.p-5.h-100.text-white.text-center
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/15.png', alt='')
-          h5(data-aos="fade-up") Primero
           p(data-aos="fade-down").mb-0 ¿Es pertinente? 
       .col-lg-3.my-3
         .bg10.brad.p-5.h-100.text-white.text-center
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/16.png', alt='')
-          h5(data-aos="fade-up") Segundo
           p(data-aos="fade-down").mb-0 ¿Es obsoleta?  
       .col-lg-3.my-3
         .bg10.brad.p-5.h-100.text-white.text-center
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/17.png', alt='')
-          h5(data-aos="fade-up") Tercero
           p(data-aos="fade-down").mb-0 ¿Es fidedigna? 
       .col-lg-3.my-3
         .bg10.brad.p-5.h-100.text-white.text-center
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/18.png', alt='')
-          h5(data-aos="fade-up") Cuarto
           p(data-aos="fade-down").mb-0 ¿Es digna de confianza?   
 
     p(data-aos="fade-down") En el siguiente esquema, se resume de forma general, la forma en que se estructuran los sistemas de información.      
 
     .titulo-sexto.color-acento-contenido
-      h5 Figura 4.
-      span Pasos para tener en cuenta 
+      h5 Figura 1.
+      span Sistemas de información 
     .bgfig1.p-5.mb-5(data-aos="zoom-in") 
       img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/20.svg', alt='Imagen que presenta que los sistemas de información tienen fuentes de información: primaria con observación directa e indirecta u secundaria, donde se tiene que validar si es: pertinente, obsoleta, fidedigna o digna de confianza.')          
 
@@ -283,7 +281,7 @@
             .row.justify-content-center.mb-5(data-aos="flip-down")
               .col-lg-10.my-3
                 .bg1.brad.h-100.p-4.j
-                  p(data-aos="fade-down").mb-0 El tipo de investigación es tecnológico, porque busca resolver un problema práctico para satisfacer las necesidades de una solución de software. 
+                  p(data-aos="fade-down").mb-0 El tipo de investigación es tecnológico, porque busca resolver un problema práctico para satisfacer las necesidades de una solución de #[i software]. 
               .col-lg-2.my-3
                 img.img-a.img-t(src='@/assets/curso/temas/32.png', alt='')     
 

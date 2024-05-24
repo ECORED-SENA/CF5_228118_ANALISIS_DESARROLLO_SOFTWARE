@@ -24,7 +24,7 @@
                     .col.my-3  
                       p(data-aos="fade-down").mb-0 Por otro lado, los instrumentos de verificación son formatos de control que se elaboran con el fin de registrar mediciones o el cumplimiento total o parcial de tareas, acciones, funciones o el desempeño de una actividad en particular, bien sea de un sistema, un funcionario, un proceso o procedimiento.     
 
-                h5.t2(data-aos="fade-down") Existen varios instrumentos de verificación como son: lista de chequeo y cálculo de métricas de software.         
+                h5.t2(data-aos="fade-down") Existen varios instrumentos de verificación como son: lista de chequeo y cálculo de métricas de #[i software].         
 
             Separador 
             #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -250,11 +250,11 @@
 
     Separador 
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 2.2 Cálculo de métricas de software  
+      h2 2.2 Cálculo de métricas de #[i software]  
 
     .row.justify-content-center.mb-4      
       .col-lg-7.my-3(data-aos="fade-left")
-        p(data-aos="fade-down") La ingeniería del software tiene como objetivo producir un sistema de óptima calidad. Para lograr este objetivo, se deben usar métodos efectivos junto con herramientas y aplicaciones actuales. Al mismo tiempo, un buen desarrollador debe medir si la calidad se va a cumplir en todo aspecto.  
+        p(data-aos="fade-down") La ingeniería del #[i software] tiene como objetivo producir un sistema de óptima calidad. Para lograr este objetivo, se deben usar métodos efectivos junto con herramientas y aplicaciones actuales. Al mismo tiempo, un buen desarrollador debe medir si la calidad se va a cumplir en todo aspecto.  
         .hr1.my-4
         h5.t2(data-aos="fade-down") La definición estándar de calidad en ISO-8402 es 
         .bloque-texto-d.color-secundario.p-4(data-aos="fade-left")
@@ -271,44 +271,46 @@
       .col-lg-12.col-12.px-lg-5.px-4 
         .row.justify-content-center.align-items-center          
           .col-lg-12 
-            p(data-aos="fade-down") Pereira et al (2012), refieren que la calidad de una solución de software o aplicación, es tan buena como los requisitos que la detallan y las mediciones que evalúan los siguientes aspectos:    
-
-            .row.justify-content-center    
-              .col-lg-2.my-1.col-md-6
-                .bg6.text-white.brad.h-100.px-2
-                  .row(data-aos="flip-down")           
-                    .col-auto.my-2
-                      img.img-t(src='@/assets/curso/temas/10.png', alt='')       
-                    .col.my-2.j2
-                      p.mb-0 Requisitos      
-              .col-lg-2.my-1.col-md-6
-                .bg6.text-white.brad.h-100.px-2
-                  .row(data-aos="flip-down")           
-                    .col-auto.my-2
-                      img.img-t(src='@/assets/curso/temas/10.png', alt='')       
-                    .col.my-2.j2
-                      p.mb-0 Análisis   
-              .col-lg-2.my-1.col-md-6
-                .bg6.text-white.brad.h-100.px-2
-                  .row(data-aos="flip-down")           
-                    .col-auto.my-2
-                      img.img-t(src='@/assets/curso/temas/10.png', alt='')       
-                    .col.my-2.j2
-                      p.mb-0 Modelos de diseño
-              .col-lg-2.my-1.col-md-6
-                .bg6.text-white.brad.h-100.px-2
-                  .row(data-aos="flip-down")           
-                    .col-auto.my-2
-                      img.img-t(src='@/assets/curso/temas/10.png', alt='')       
-                    .col.my-2.j2
-                      p.mb-0 Código fuente                       
-              .col-lg-2.my-1.col-md-6
-                .bg6.text-white.brad.h-100.px-2
-                  .row(data-aos="flip-down")           
-                    .col-auto.my-2
-                      img.img-t(src='@/assets/curso/temas/10.png', alt='')       
-                    .col.my-2.j2
-                      p.mb-0 Casos de prueba   
+            p(data-aos="fade-down") Pereira et al (2012), refieren que la calidad de una solución de #[i software] o aplicación, es tan buena como los requisitos que la detallan y las mediciones que evalúan los siguientes aspectos:    
+            .row.justify-content-center.align-items-center          
+              .col-lg-10
+                .row.justify-content-center    
+                  .col-lg-3.my-1.col-md-6
+                    .bg6.text-white.brad.h-100.px-2
+                      .row(data-aos="flip-down")           
+                        .col-auto.my-2
+                          img.img-t(src='@/assets/curso/temas/10.png', alt='')       
+                        .col.my-2.j2
+                          p.mb-0 Requisitos      
+                  .col-lg-3.my-1.col-md-6
+                    .bg6.text-white.brad.h-100.px-2
+                      .row(data-aos="flip-down")           
+                        .col-auto.my-2
+                          img.img-t(src='@/assets/curso/temas/10.png', alt='')       
+                        .col.my-2.j2
+                          p.mb-0 Análisis   
+                  .col-lg-3.my-1.col-md-6
+                    .bg6.text-white.brad.h-100.px-2
+                      .row(data-aos="flip-down")           
+                        .col-auto.my-2
+                          img.img-t(src='@/assets/curso/temas/10.png', alt='')       
+                        .col.my-2.j2
+                          p.mb-0 Modelos de diseño
+                .row.justify-content-center                            
+                  .col-lg-3.my-1.col-md-6
+                    .bg6.text-white.brad.h-100.px-2
+                      .row(data-aos="flip-down")           
+                        .col-auto.my-2
+                          img.img-t(src='@/assets/curso/temas/10.png', alt='')       
+                        .col.my-2.j2
+                          p.mb-0 Código fuente                       
+                  .col-lg-3.my-1.col-md-6
+                    .bg6.text-white.brad.h-100.px-2
+                      .row(data-aos="flip-down")           
+                        .col-auto.my-2
+                          img.img-t(src='@/assets/curso/temas/10.png', alt='')       
+                        .col.my-2.j2
+                          p.mb-0 Casos de prueba   
 
             .row.justify-content-center.align-items-center
               .col-lg-9.my-3
@@ -325,9 +327,18 @@
       .col-lg-9.my-3(data-aos="fade-left")
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg9")
           div(titulo="Factores calidad de <i>software</i>")
-            p Cuando el investigador toma directamente los datos de la población, sin necesidad de cuestionarios o entrevistadores. Por ejemplo, cuando un profesor realiza un estudio sobre el avance de sus estudiantes en una materia.
+            p Los factores que hacen variable la calidad del #[i software], se pueden categorizar en dos grandes grupos: 
+            ol.lista-ol--cuadro.fa-ul
+              li 
+                .lista-ol--cuadro__vineta
+                  span a
+                span Factores que se miden directamente cómo son los defectos por puntos de función.
+              li 
+                .lista-ol--cuadro__vineta
+                  span b
+                span Factores que se miden indirectamente cómo es la facilidad de uso o de mantenimiento. 
           div(titulo="Categorización factores ")
-            p McCall planteó una categorización de factores que perturban la calidad de software, donde se enfocan en tres aspectos relevantes de una solución de software, los cuales son: 
+            p McCall planteó una categorización de factores que perturban la calidad de #[i software], donde se enfocan en tres aspectos relevantes de una solución de #[i software], los cuales son: 
             ol.lista-ol--cuadro.fa-ul
               li 
                 .lista-ol--cuadro__vineta
@@ -347,7 +358,7 @@
         .col-lg-auto.my-3
           img.img-a.img-t(src='@/assets/curso/temas/63.png', alt='')       
         .col.my-3              
-          p.mb-0.text-white Ahora bien, Pérez Quintero (2019), recomienda presentar el esquema de puntuación desarrollado por McCall como una escala donde se emplean unas métricas y criterios. Para conocerlas, lo invitamos a explorar el PDF #[b.t3 Tabla de métricas de software.]                 
+          p.mb-0.text-white Ahora bien, Pérez Quintero (2019), recomienda presentar el esquema de puntuación desarrollado por McCall como una escala donde se emplean unas métricas y criterios. Para conocerlas, lo invitamos a explorar el PDF #[b.t3 Tabla de métricas de #[em.t3 software].]                 
 </template>
 
 <script>

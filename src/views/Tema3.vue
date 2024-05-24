@@ -16,11 +16,11 @@
                 img.img-t(src='@/assets/curso/temas/66.png', alt='')       
               .col-lg-9
                 .py-3.text-white
-                  p(data-aos="fade-down") Es uno de los temas trascendentales en el proceso de desarrollo de software, porque permite hacer un seguimiento riguroso al proyecto desde la idea básica hasta los entregables. Los modelos de trazabilidad facilitan que los desarrolladores realicen una correcta evaluación del costo e impacto de las posibles modificaciones en los modelos y código del software, ayudando a enlazar o relacionar los requisitos con otros elementos del ciclo de vida, principalmente, casos de prueba y código. 
+                  p(data-aos="fade-down") Es uno de los temas trascendentales en el proceso de desarrollo de #[i software], porque permite hacer un seguimiento riguroso al proyecto desde la idea básica hasta los entregables. Los modelos de trazabilidad facilitan que los desarrolladores realicen una correcta evaluación del costo e impacto de las posibles modificaciones en los modelos y código del #[i software], ayudando a enlazar o relacionar los requisitos con otros elementos del ciclo de vida, principalmente, casos de prueba y código. 
 
                   p(data-aos="fade-down").mb-0 En la opinión de Hernández et al (2015), hay que tener en cuenta que el código que se implementa debe ser consecuente con los requisitos, se puede estimar con precisión el esfuerzo que lleva implementar una petición de cambio sobre un requisito. Hay que tener en cuenta que la trazabilidad debe ser bidireccional, de requisitos a código y código a requisitos. Para este fin, se utiliza una matriz de trazabilidad de requerimientos, lo cual asegura un total cumplimiento del proyecto. 
 
-            h5.t2(data-aos="fade-down") Para elaborar esta matriz, hay que tener como insumo fundamental los requisitos de software, entre ellos encontramos: 
+            h5.t2(data-aos="fade-down") Para elaborar esta matriz, hay que tener como insumo fundamental los requisitos de #[i software], entre ellos encontramos: 
 
             .row.justify-content-center.mb-4    
               .col-lg-9.my-3(data-aos="fade-left")
@@ -72,8 +72,8 @@
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/71.png', alt='')                                           	
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-down")
-      h5 Tabla 1.
-      span Lista de chequeo Módulo de registro de usuarios
+      h5 Tabla 2.
+      span Ejemplo Matriz de trazabilidad
     .tabla-a.color-acento-contenido(data-aos="fade-down")
       table
         thead.bgh

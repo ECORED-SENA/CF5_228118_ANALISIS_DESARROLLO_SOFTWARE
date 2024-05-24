@@ -27,7 +27,7 @@
                   .col-lg-auto.my-3                  
                     img.img-a.img-t(src='@/assets/curso/temas/3.svg', alt='')         
                   .col.my-3
-                    p(data-aos="fade-down") Para lograrlo, estudiaremos qué es el informe de análisis y qué son las fuentes de información, para continuar con los instrumentos de medición o verificación, donde encontramos la lista de chequeo y el cálculo de métricas de #[i software], y finalizaremos con la trazabilidad, uno de los temas trascendentales en el proceso de desarrollo de #[i software], porque permite hacer un seguimiento riguroso al proyecto, desde la idea básica hasta los entregable.
+                    p(data-aos="fade-down") Para lograrlo, estudiaremos qué es el informe de análisis y qué son las fuentes de información, para continuar con los instrumentos de medición o verificación, donde encontramos la lista de chequeo y el cálculo de métricas de #[i software], y finalizaremos con la trazabilidad, uno de los temas trascendentales en el proceso de desarrollo de #[i software], porque permite hacer un seguimiento riguroso al proyecto, desde la idea básica hasta los entregables.
 
                     h5(data-aos="fade-down") #[mark.t1.px-2 Bienvenido.]      
 
