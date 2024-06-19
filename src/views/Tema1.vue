@@ -154,7 +154,7 @@
             li.mb-0 
               .lista-ol--cuadro__vineta
                 span b
-              span #[b Introducción:] una introducción no debe contener más de 2 páginas, se debe detallar el ámbito, objetivos y resultados del trabajo, este debe contener (Acosta Hoyos, 1972)
+              span #[b Introducción:] una introducción no debe contener más de 2 páginas, se debe detallar el ámbito, objetivos y resultados del trabajo, este debe contener: (Acosta Hoyos, 1972)
     .row.bg11.align-items-center.pt-3.mb-4
       .col-lg-12.col-12.px-lg-5.px-4.up
         .row.justify-content-center.align-items-center

@@ -104,7 +104,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/228118_CF05_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -125,7 +125,7 @@ export default {
         'Datko, C., & Carllinni, Y. (2014). Derivación de requisitos y construcción de trazabilidad entre artefactos del proceso de desarrollo. In XLIII Jornadas Argentinas de Informática e Investigación Operativa (43JAIIO)-XVII Concurso de Trabajos Estudiantiles (EST).',
       tipo: 'Otro',
       link:
-        'https://webcache.googleusercontent.com/search?q=cache:sfsgC82GPXMJ:https://43jaiio.sadio.org.ar/proceedings/EST/3_759-2539-1-DR.pdf+&cd=1&hl=es&ct=clnk&gl=co',
+        'http://sedici.unlp.edu.ar/bitstream/handle/10915/42037/Documento_completo.pdf?sequence=1',
     },
   ],
   glosario: [

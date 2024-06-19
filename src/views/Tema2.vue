@@ -241,7 +241,7 @@
             td    
           tr
             td.text-center 7
-            td.ps-4 ¿Hay estrategias de detección de errores en el sistema? 
+            td.ps-4 ¿Se especifican requisitos mínimos de hardware para la implementación del sistema? 
             td
             td
             td               
@@ -352,13 +352,7 @@
                 .lista-ol--cuadro__vineta
                   span c
                 span Adaptabilidad a nuevos entornos. 
-
-    .bg7.brad.p-4
-      .row.justify-content-center.align-items-center(data-aos="flip-down")           
-        .col-lg-auto.my-3
-          img.img-a.img-t(src='@/assets/curso/temas/63.png', alt='')       
-        .col.my-3              
-          p.mb-0.text-white Ahora bien, Pérez Quintero (2019), recomienda presentar el esquema de puntuación desarrollado por McCall como una escala donde se emplean unas métricas y criterios. Para conocerlas, lo invitamos a explorar el PDF #[b.t3 Tabla de métricas de #[em.t3 software].]                 
+             
 </template>
 
 <script>
