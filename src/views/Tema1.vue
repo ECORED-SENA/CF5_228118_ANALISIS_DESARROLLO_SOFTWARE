@@ -80,8 +80,8 @@
                   .col-lg-auto.my-3
                     img.img-a.img-t(src='@/assets/curso/temas/11.png', alt='')       
                   .col.my-3
-                    h5.t2(data-aos="fade-down") De acuerdo a su origen se clasifican en: fuentes primarias y fuentes secundarias.
-                    h5.t2(data-aos="fade-down") Según Torres et al, (2019):
+                    h5.t2(data-aos="fade-down") De acuerdo a su origen, se clasifican en: fuentes primarias y fuentes secundarias.
+                    h5.t2(data-aos="fade-down") Según Torres et al. (2019):
                 .row.justify-content-center       
                   .col-lg-6.my-3
                     .bg8.brad.p-3.j.h-100(data-aos="fade-left")
@@ -89,7 +89,7 @@
 
                   .col-lg-6.my-3
                     .bg8.brad.p-3.j.h-100(data-aos="fade-right")
-                      p(data-aos="fade-down").mb-0 Las fuentes secundarias son aquellas que parten de datos preelaborados, como pueden ser datos obtenidos de otros proyectos, de Internet, de medios de comunicación. 
+                      p(data-aos="fade-down").mb-0 Las fuentes secundarias son aquellas que parten de datos preelaborados, como pueden ser datos obtenidos de otros proyectos, de Internet y de medios de comunicación. 
 
               .col-lg-4.my-3 
                 img.img-a.img-t(src='@/assets/curso/temas/12.png', alt='')       
@@ -154,7 +154,7 @@
             li.mb-0 
               .lista-ol--cuadro__vineta
                 span b
-              span #[b Introducción:] una introducción no debe contener más de 2 páginas, se debe detallar el ámbito, objetivos y resultados del trabajo, este debe contener: (Acosta Hoyos, 1972)
+              span #[b Introducción:] una introducción no debe contener más de 2 páginas, se debe detallar el ámbito, objetivos y resultados del trabajo, este debe contener. (Acosta Hoyos, 1972)
     .row.bg11.align-items-center.pt-3.mb-4
       .col-lg-12.col-12.px-lg-5.px-4.up
         .row.justify-content-center.align-items-center
@@ -220,7 +220,7 @@
           div(titulo="Usar frases cortas")
             p Al momento de plasmar nuestras ideas, debemos ser directos y concisos, así logramos que los lectores entiendan el mensaje.  
           div(titulo="Adjetivos")
-            p Cuando se usan bien enriquecen el texto y ayudan a describir, de manera óptima, una idea. Se recomienda no excederse en ellos para no saturar el texto.   
+            p Cuando se usan bien, enriquecen el texto y ayudan a describir, de manera óptima, una idea. Se recomienda no excederse en ellos para no saturar el texto.   
 
     .row.justify-content-center    
       .col-lg-9.my-3(data-aos="fade-left")
@@ -228,7 +228,7 @@
           div(titulo="Revisar el texto")
             p Es recomendable leer el texto varias veces, porque al hacerlo de manera constante, podemos corregir errores y enriquecer el documento. Se recomienda estar actualizado en cuanto al lenguaje técnico. 
           div(titulo="No escribir como se habla")
-            p La elaboración de la redacción difiere mucho del lenguaje hablado, por lo cual no debemos seguir el patrón de una conversación; cuando estamos redactando debemos estructurar el texto de la siguiente manera: sujeto, predicado y complementos, expresando de manera concreta la idea principal.  
+            p La elaboración de la redacción difiere mucho del lenguaje hablado, por lo cual no debemos seguir el patrón de una conversación; cuando estamos redactando, debemos estructurar el texto de la siguiente manera: sujeto, predicado y complementos, expresando de manera concreta la idea principal.  
           div(titulo="Usar puntos y comas")
             p Es indispensable para expresarnos de manera correcta, dando fluidez al discurso escrito, permitiendo que el lector pueda disfrutar y comprender el texto.       
           div(titulo="Conclusiones y resultados")
@@ -324,7 +324,7 @@
           .row.justify-content-center
             .col-8
               img.img-a.img-t.mb-3(src='@/assets/curso/temas/37.png' alt='')
-          p.mb-0 #[b.t5 c)] Una analogía, con relación al problema de interés podrá conducir a la hipótesis buscada.    
+          p.mb-0 #[b.t5 c)] Una analogía, con relación al problema de interés, podrá conducir a la hipótesis buscada.    
 
     .row.justify-content-center.align-items-center         
       .col-lg-4.my-3

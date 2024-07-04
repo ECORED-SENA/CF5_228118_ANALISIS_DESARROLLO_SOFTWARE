@@ -194,7 +194,7 @@ export default {
     },
     {
       termino: 'Modularidad',
-      significado: 'la independencia funcional de componentes de programa.',
+      significado: 'la independencia funcional de componentes del programa.',
     },
     {
       termino: 'Operatividad',
@@ -217,7 +217,7 @@ export default {
     },
     {
       referencia:
-        'Ayabaca, L. P., & Bernal, S. M. (2017). Verificación y Validación de <i>Software</i> <i>Software</i> Verification and Validation. Revista Killkana Técnica. Vol, 1(3). ',
+        'Ayabaca, L. P., & Bernal, S. M. (2017). Verificación y Validación de <i>Software</i> Verification and Validation. Revista Killkana Técnica. Vol, 1(3). ',
     },
     {
       referencia:

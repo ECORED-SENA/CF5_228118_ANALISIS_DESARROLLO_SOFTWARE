@@ -33,12 +33,12 @@
             .row.justify-content-center      
               .col-lg-4.my-3(data-aos="fade-left")
                 .bg1.p-3.j.brad.h-100
-                  p.mb-0 La lista de chequeo es el instrumento más utilizado para recolectar información en la etapa de requisitos, también conocida como checklist u hoja de verificación. Es un formato que puede ser analógico o digital, y su función es comprobar de una forma metódica y sistemática, el cumplimiento o no de los requisitos que contiene la lista, por este motivo debe ser de fácil uso y muy concretas.
+                  p.mb-0 La lista de chequeo es el instrumento más utilizado para recolectar información en la etapa de requisitos, también conocida como #[i checklist] u hoja de verificación. Es un formato que puede ser analógico o digital, y su función es comprobar, de una forma metódica y sistemática, el cumplimiento o no de los requisitos que contiene la lista, por este motivo, debe ser de fácil uso y muy concretas.
               .col-lg-4.my-3(data-aos="fade-down")
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/42.png', alt='') 
               .col-lg-4.my-3(data-aos="fade-right")
                 .bg2.p-3.j.brad.h-100
-                  p.mb-0 Es preferible redactar un cuestionario fácil de responder, que pueda contemplar todos los sitios necesarios y más fundamentales; por lo general, la checklist tiene varios destinatarios y usuarios, lo cual sirve para hacer un auto control o control interno, aunque también sirve para supervisar el trabajo de otros, pudiendo verificar el cumplimiento o no de ciertas funciones o parámetros; a esto lo conocemos con el nombre de control externo.
+                  p.mb-0 Es preferible redactar un cuestionario fácil de responder, que pueda contemplar todos los sitios necesarios y más fundamentales; por lo general, la #[i checklist] tiene varios destinatarios y usuarios, lo cual sirve para hacer un autocontrol o control interno, aunque también sirve para supervisar el trabajo de otros, pudiendo verificar el cumplimiento o no de ciertas funciones o parámetros; a esto lo conocemos con el nombre de control externo.
 
             .row.justify-content-center      
               .col-lg-8.my-3(data-aos="fade-left")
@@ -256,7 +256,7 @@
       .col-lg-7.my-3(data-aos="fade-left")
         p(data-aos="fade-down") La ingeniería del #[i software] tiene como objetivo producir un sistema de óptima calidad. Para lograr este objetivo, se deben usar métodos efectivos junto con herramientas y aplicaciones actuales. Al mismo tiempo, un buen desarrollador debe medir si la calidad se va a cumplir en todo aspecto.  
         .hr1.my-4
-        h5.t2(data-aos="fade-down") La definición estándar de calidad en ISO-8402 es 
+        h5.t2(data-aos="fade-down") La definición estándar de calidad en ISO-8402 es: 
         .bloque-texto-d.color-secundario.p-4(data-aos="fade-left")
           .bloque-texto-d__texto
             i.fas.fa-quote-left
@@ -332,11 +332,11 @@
               li 
                 .lista-ol--cuadro__vineta
                   span a
-                span Factores que se miden directamente cómo son los defectos por puntos de función.
+                span Factores que se miden directamente, cómo son los defectos por puntos de función.
               li 
                 .lista-ol--cuadro__vineta
                   span b
-                span Factores que se miden indirectamente cómo es la facilidad de uso o de mantenimiento. 
+                span Factores que se miden indirectamente, cómo es la facilidad de uso o de mantenimiento. 
           div(titulo="Categorización factores ")
             p McCall planteó una categorización de factores que perturban la calidad de #[i software], donde se enfocan en tres aspectos relevantes de una solución de #[i software], los cuales son: 
             ol.lista-ol--cuadro.fa-ul

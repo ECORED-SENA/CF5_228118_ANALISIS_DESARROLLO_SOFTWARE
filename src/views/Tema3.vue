@@ -16,7 +16,7 @@
                 img.img-t(src='@/assets/curso/temas/66.png', alt='')       
               .col-lg-9
                 .py-3.text-white
-                  p(data-aos="fade-down") Es uno de los temas trascendentales en el proceso de desarrollo de #[i software], porque permite hacer un seguimiento riguroso al proyecto desde la idea básica hasta los entregables. Los modelos de trazabilidad facilitan que los desarrolladores realicen una correcta evaluación del costo e impacto de las posibles modificaciones en los modelos y código del #[i software], ayudando a enlazar o relacionar los requisitos con otros elementos del ciclo de vida, principalmente, casos de prueba y código. 
+                  p(data-aos="fade-down") Es uno de los temas trascendentales en el proceso de desarrollo de #[i software], porque permite hacer un seguimiento riguroso al proyecto, desde la idea básica hasta los entregables. Los modelos de trazabilidad facilitan que los desarrolladores realicen una correcta evaluación del costo e impacto de las posibles modificaciones en los modelos y código del #[i software], ayudando a enlazar o relacionar los requisitos con otros elementos del ciclo de vida, principalmente, casos de prueba y código. 
 
                   p(data-aos="fade-down").mb-0 En la opinión de Hernández et al (2015), hay que tener en cuenta que el código que se implementa debe ser consecuente con los requisitos, se puede estimar con precisión el esfuerzo que lleva implementar una petición de cambio sobre un requisito. Hay que tener en cuenta que la trazabilidad debe ser bidireccional, de requisitos a código y código a requisitos. Para este fin, se utiliza una matriz de trazabilidad de requerimientos, lo cual asegura un total cumplimiento del proyecto. 
 
@@ -124,7 +124,7 @@
             td.text-center Venta  
             td.text-center Alta 
             td.text-center Activo 
-            td Mejorar el control de existencias de productos . 
+            td Mejorar el control de existencias de productos. 
             td 
               p.mb-0 Registrar 
               p.mb-0 Modificar 
